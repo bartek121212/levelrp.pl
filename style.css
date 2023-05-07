@@ -1,0 +1,322 @@
+body{
+    background-size: 100%;
+    background: rgb(49, 49, 49);
+}
+.text{
+    max-width: 1700px;
+    width:100%;
+    margin:0 auto;
+    height:300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    width: 1900px;
+    color: white;
+    
+
+}
+
+.text h1{
+    text-shadow: 10px 10px 10px black;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.text p{
+    font-size: 1.5rem;
+    position:absolute;
+    margin-top: 200px;
+    width: 800px;
+    text-align: center;
+    text-shadow: 0 0 0.59em rgb(0, 0, 0), 0 0 0.2em rgb(0, 0, 0);
+
+}
+.text2{
+    
+   
+   
+    margin:0 auto;
+   height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    width: 500px;
+    color: white;
+
+}
+.text2 h1{
+    margin-top: 950px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-variant: inherit;
+    text-shadow: 10px 10px 10px black;
+
+}
+.divy{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 500px;
+    gap: 50px;
+
+}
+
+.div1{
+width: 350px;
+height:350px;
+border-radius: 25px;
+background: url(img/div1.png);
+transition: transform 0.7s;
+}
+.div2{
+    width: 350px;
+    height:350px;
+    border-radius: 25px;
+background: url(img/div2.svg);
+background-size: 350px;
+transition: transform 0.7s;
+}
+.div3{
+    width: 350px;
+    height:350px;
+    border-radius: 25px;
+background: url(img/div3.svg);
+background-size: 350px;
+transition: transform 0.7s;
+}
+.div4{
+    width: 350px;
+    height:350px;
+    border-radius: 25px;
+background: url(img/div4.jpg);
+transition: transform 0.7s;
+}
+.div1:hover{
+    transform: translateY(-50px);
+
+}
+.div2:hover{
+    transform: translateY(-50px);
+
+}
+.div3:hover{
+    transform: translateY(-50px);
+
+}
+.div4:hover{
+    transform: translateY(-50px);
+
+}
+.obraz{
+    width: 550px;
+    height: 550px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    position: absolute;
+    margin-left: 680px;
+    background: url(img/logo.svg);
+}
+.text3{
+    
+   
+   
+    margin:0 auto;
+   height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    width: 500px;
+    color: white;
+
+}
+.text3 h1{
+    margin-top: 950px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-variant: inherit;
+    text-shadow: 10px 10px 10px black;
+
+}
+.divy2{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 500px;
+    gap: 50px;
+
+}
+.div5{
+    width: 350px;
+    height:350px;
+    border-radius: 25px;
+    
+    background: url(img/div5.jpg);
+    transition: transform 0.7s;
+    }
+    .div6{
+        width: 350px;
+        height:350px;
+        border-radius: 25px;
+    background: url(img/div6.jpg);
+    background-size:200%;
+    transition: transform 0.7s;
+    }
+    .div7{
+        width: 350px;
+        height:350px;
+        border-radius: 25px;
+    background: url(img/div7.jpg);
+    background-size: 150%;
+
+    transition: transform 0.7s;
+    }
+    .div8{
+        width: 350px;
+        height:350px;
+        border-radius: 25px;
+    background: url(img/div8.jpg);
+    background-size: 125%;
+    transition: transform 0.7s;
+    }
+    .div5:hover{
+        transform: translateY(-50px);
+    
+    }
+    .div6:hover{
+        transform: translateY(-50px);
+    
+    }
+    .div7:hover{
+        transform: translateY(-50px);
+    
+    }
+    .div8:hover{
+        transform: translateY(-50px);
+    
+    }
+
+    .text4{
+    
+   
+   
+        margin:0 auto;
+       height: 200px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 25px;
+        width: 500px;
+        color: white;
+    
+    }
+    .text4 h1{
+        margin-top: 950px;
+        font-weight: bold;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-variant: inherit;
+        text-shadow: 10px 10px 10px black;
+    
+    }
+    .text4 p{
+
+        font-size: 1.5rem;
+        position:absolute;
+        margin-top: 200px;
+        width: 800px;
+        text-align: center;
+        text-shadow: 0 0 0.59em rgb(0, 0, 0), 0 0 0.2em rgb(0, 0, 0);
+    }
+    .text5{
+        max-width: 1700px;
+        width:100%;
+        margin:0 auto;
+        margin-top: 500px;
+        height:300px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 25px;
+        width: 1900px;
+        color: white;
+      
+        
+    
+    }
+    
+    .text5 h1{
+        text-shadow: 10px 10px 10px black;
+        font-weight: bold;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        
+    }
+    .text5 p{
+        font-size: 1.5rem;
+        position:absolute;
+        margin-top: 300px;
+        width: 800px;
+        text-align: center;
+        text-shadow: 0 0 0.59em rgb(0, 0, 0), 0 0 0.2em rgb(0, 0, 0);
+    
+    }
+    .obraz2{
+        width: 1000px;
+        height: 550px;
+        display: flex;
+        justify-content:center;
+        align-items: center;
+        margin-top: -730px;
+        margin-left: 450px;
+        border-radius: 50px;
+        background: url(img/logo2.jpg);
+    }
+
+    .zakonczenie{
+        width:1915px;
+        height: 400px;
+        background: rgb(34, 34, 34);
+        margin-left: -20px;
+        margin-top: 400px;
+    }
+    .prawa{
+        
+
+    }
+    .prawa h1{
+        margin-top: -30px;
+        font-size: 20px;
+        font-weight:bold;
+        font-weight: bold;
+        color:white;
+    }
+
+    .prawa2{
+
+
+    }
+    .prawa2 h1{
+        margin-top: -35px;
+        margin-left: 1600px;
+        font-size: 15px;
+        font-weight:bold;
+        font-weight: bold;
+        color:white;
+    }
+    .prawa3{
+        margin-left: 1750px;
+        margin-top: -110px;
+       
+
+        
+    }
+    .prawa3:hover{
+        opacity: 0.5;
+    }
+    a {
+        text-decoration: none;
+        color: rgb(247, 246, 246);
+     }
+  
+     a:hover {
+        text-decoration: none;
+     }
